@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [1563-stone-game-v](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 ## Greedy
