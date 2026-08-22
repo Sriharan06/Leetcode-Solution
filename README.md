@@ -74,6 +74,7 @@
 | [1563-stone-game-v](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
