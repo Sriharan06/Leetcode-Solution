@@ -21,6 +21,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
 |  |
 | ------- |
