@@ -98,6 +98,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [1563-stone-game-v](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2029-stone-game-ix) |
@@ -148,6 +149,7 @@
 | [0115-distinct-subsequences](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Simulation
@@ -161,6 +163,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
@@ -169,6 +172,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
