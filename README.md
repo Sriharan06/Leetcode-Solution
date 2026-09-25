@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0001-two-sum) |
+| [1096-brace-expansion-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
@@ -226,6 +230,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -240,4 +245,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
