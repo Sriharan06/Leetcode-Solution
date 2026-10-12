@@ -144,6 +144,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -223,6 +224,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -315,4 +317,8 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
