@@ -1,62 +1,70 @@
-class BIT {
-    int size;
-    long[] _tree1;
-    long[] _tree2;
-    public BIT(int n) {
-        this.size = n;
-        this._tree1 = new long[n + 2];
-        this._tree2 = new long[n + 2];
-    }
-    private int _lowbit(int index) {
-        return index & -index;
-    }
-    public void add(int left, int right, int delta) {
-        _add(left, delta);
-        _add(right + 1, -delta);
-    }
-    public long query(int left, int right) {
-        return _query(right) - _query(left - 1);
-    }
-    private void _add(int index, int delta) {
-        index += 1;
-        long rawIndex = index;
-        while (index <= size) {
-            _tree1[index] += delta;
-            _tree2[index] += rawIndex * delta;
-            index += _lowbit(index);
-        }
-    }
-    private long _query(int index) {
-        index += 1;
-        long rawIndex = index + 1;
-        if (index > size) {
-            index = size;
-        }
-        long res = 0;
-        while (index > 0) {
-            res += rawIndex * _tree1[index] - _tree2[index];
-            index -= _lowbit(index);
-        }
-        return res;
-    }
-}
+
+import java.util.*;
+
 class Solution {
-    public int sumCounts(int[] A) {
-        int n = A.length;
-        long res = 0,
-            cur = 0;
-        BIT bit = new BIT(n + 10);
-        Map<Integer, Integer> seen = new HashMap<>();
-        long mod = 1000000007;
+    int MOD = 1000000007;
+    long[] sum, square, lazy;
+    int n;
+
+    public int sumCounts(int[] nums) {
+        n = nums.length;
+        sum = new long[4 * n];
+        square = new long[4 * n];
+        lazy = new long[4 * n];
+
+        HashMap<Integer, Integer> last = new HashMap<>();
+        long ans = 0;
+
         for (int i = 0; i < n; i++) {
-            int a = A[i];
-            int j = seen.getOrDefault(a, -1) + 1;
-            long q = bit.query(j, i);
-            cur = (cur + q * 2 + i - j + 1) % mod;
-            res = (res + cur) % mod;
-            bit.add(j, i, 1);
-            seen.put(a, i);
+            int prev = last.getOrDefault(nums[i], -1);
+            last.put(nums[i], i);
+
+            update(1, 0, n - 1, prev + 1, i);
+
+            ans = (ans + square[1]) % MOD;
         }
-        return (int) res;
+
+        return (int) ans;
+    }
+
+    void apply(int node, int l, int r, long val) {
+        long old = sum[node];
+        long len = r - l + 1;
+
+        square[node] = (square[node] + 2 * val % MOD * old
+                        + val * val % MOD * len) % MOD;
+
+        sum[node] = (old + val * len) % MOD;
+        lazy[node] = (lazy[node] + val) % MOD;
+    }
+
+    void push(int node, int l, int r) {
+        if (lazy[node] == 0 || l == r) return;
+
+        int mid = (l + r) / 2;
+
+        apply(node * 2, l, mid, lazy[node]);
+        apply(node * 2 + 1, mid + 1, r, lazy[node]);
+
+        lazy[node] = 0;
+    }
+
+    void update(int node, int l, int r, int ql, int qr) {
+        if (ql > r || qr < l) return;
+
+        if (ql <= l && r <= qr) {
+            apply(node, l, r, 1);
+            return;
+        }
+
+        push(node, l, r);
+
+        int mid = (l + r) / 2;
+
+        update(node * 2, l, mid, ql, qr);
+        update(node * 2 + 1, mid + 1, r, ql, qr);
+
+        sum[node] = (sum[node * 2] + sum[node * 2 + 1]) % MOD;
+        square[node] = (square[node * 2] + square[node * 2 + 1]) % MOD;
     }
 }
