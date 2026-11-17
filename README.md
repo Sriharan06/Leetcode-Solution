@@ -121,6 +121,7 @@
 | [2409-count-days-spent-together](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -287,6 +288,7 @@
 | [1872-stone-game-viii](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3665-twisted-mirror-path-count) |
@@ -340,6 +342,7 @@
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sriharan06/Leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
