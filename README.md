@@ -211,6 +211,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -387,6 +388,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sriharan06/Leetcode-Solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
 |  |
@@ -411,6 +413,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sriharan06/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sriharan06/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
